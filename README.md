@@ -1,2 +1,2 @@
 # spirinus.github.io
-Nik Spirin: Personal Website
+Nik Spirin: Website
